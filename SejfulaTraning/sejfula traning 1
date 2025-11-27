@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>World Of Sejfula</title>
+    <body>
+        <h1>Hello World of Sejfula</h1>
+        <p>Welcome to the world of Sejfula training page.</p>
+        <P>Enjoy your stay!</P>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur corrupti odio pariatur hic dolor doloremque dicta maxime modi. Veniam dicta quis maxime dignissimos eius odio libero excepturi cumque illo vel id obcaecati sunt rem eum ut quidem, sapiente repudiandae non ipsum velit repellendus. Omnis itaque fuga delectus aperiam commodi natus, sint quibusdam cum dicta aliquid consequatur earum corrupti ullam adipisci rem doloremque cumque. Dignissimos, cupiditate. Praesentium a laudantium ullam cumque exercitationem unde saepe alias? Vitae hic veniam impedit assumenda earum sint autem eos nam recusandae, aliquam eveniet expedita minima! Atque vero, maiores hic repellat quod facilis porro laboriosam suscipit nesciunt et impedit ea quasi dolor ducimus nostrum nihil cupiditate assumenda odio! Vel voluptatibus delectus minima iste enim temporibus hic accusamus maiores nam pariatur consequatur aspernatur sit, officia neque molestiae autem corrupti deleniti laborum maxime vitae impedit, atque commodi asperiores alias. Odit, ea consequatur laudantium perferendis autem nihil sapiente voluptatibus praesentium maxime sit et molestiae dolor voluptatum nam, iusto unde sint modi commodi aliquam, doloremque error. Consequatur hic explicabo sed veritatis perspiciatis sequi ipsa molestiae, minima quis quae, id animi recusandae. Ea tenetur ad, qui error corporis porro mollitia dignissimos fugiat sed assumenda labore iste quos et voluptate ipsam cum repellendus laboriosam id inventore, quis autem architecto modi. Molestiae perferendis necessitatibus nemo labore dignissimos earum quaerat vel sint minus possimus distinctio sunt velit alias corporis impedit iure fuga nobis laboriosam, aut doloremque dicta blanditiis. Magni placeat laborum est, totam quisquam, mollitia unde error nobis ipsam similique dolores! Animi amet praesentium maxime labore quibusdam culpa id aliquid asperiores sed nemo! Quo, sed? Quia vero libero accusantium eveniet nemo ipsum labore corrupti fuga sunt? Nostrum laudantium dolore dolorum animi saepe? Nemo enim facere qui, iste fugiat explicabo dolorum in aut corrupti nihil, unde ea, consectetur odit cum repellendus sit quis. Perspiciatis beatae magnam possimus odit, quo velit id eius praesentium earum, ipsam repellendus fuga sunt molestias. In sequi, suscipit sunt at veniam voluptates porro veritatis, eos, incidunt quam repellat? Recusandae maiores voluptatibus laborum excepturi debitis ullam, sed dolorem esse reprehenderit dolore? Impedit autem praesentium facilis inventore alias, illum recusandae sit fugit nisi, facere repellendus repellat totam est quam odio ratione atque, similique vero necessitatibus cumque. Reprehenderit provident nostrum corrupti odit quam, similique architecto officiis rem nam harum facilis perferendis et adipisci iste atque necessitatibus quae. Possimus, culpa nam. Inventore, quis aspernatur veniam vel consectetur quisquam repellendus odit error laboriosam explicabo repudiandae aliquam iure ipsum! Inventore dolore dignissimos, omnis consequuntur quos quaerat est corrupti alias natus eveniet voluptas, illo rerum! Sunt ut possimus praesentium, aspernatur quisquam dolorem dignissimos temporibus architecto maiores porro. Eum esse ullam iusto quas, ipsam impedit odio tempore culpa repudiandae minus perspiciatis numquam illum. Eius perspiciatis vitae dolor optio ipsa minus architecto impedit laborum dignissimos, saepe ad repudiandae quas totam blanditiis rem mollitia excepturi esse? Iusto possimus autem iste ducimus. Maiores voluptate pariatur quaerat voluptatum dolores. Blanditiis corrupti a vitae fugiat perspiciatis. Delectus optio dolore ratione voluptatum, quisquam aut sed repudiandae? Amet, debitis enim. Nobis necessitatibus quaerat sequi? Sit, nostrum reiciendis?</p>
+
+        <p>Contact informations</p>
+        <ul>
+            <li>Email:sejfulamemedov@mail.com</li>
+            <li>Phone:+1234567890</li>
+            <li>Address:123 Sejfula St, Training City</li>
+        </ul>
+        <div>
+            <h2>About Sejfula Training</h2>
+            <p>Sejfula Training is dedicated to providing high-quality training resources and tutorials for developers of all skill levels. Our mission is to empower individuals to enhance their coding skills and achieve their career goals.</p>
+        </div>
+        <button>Click Me!</button>
+        <table>
+
+            <h3>
+  
+      <style>
+    table {
+        border-collapse: collapse;
+        width: 100%;
+        text-align: center;
+        font-size: 18px;
+    }
+
+    th, td {
+        border: 1px solid #000;
+        padding: 10px;
+    }
+
+    th {
+        background-color: #4CAF50; /* Header green */
+        color: white;
+    }
+
+    .day {
+        background-color: #4CAF50; /* Days green */
+        color: white;
+        font-weight: bold;
+    }
+
+    .class {
+        background-color: #9cff9c; /* Filled classes light green */
+    }
+
+    .empty {
+        background-color: #ff8a8a; /* Empty classes red */
+    }
+</style>
+
+<table>
+    <tr>
+        <th>Day</th>
+        <th>Class 1</th>
+        <th>Class 2</th>
+        <th>Class 3</th>
+        <th>Class 4</th>
+        <th>Class 5</th>
+    </tr>
+
+    <tr>
+        <td class="day">Monday</td>
+        <td class="class">Math</td>
+        <td class="class">English</td>
+        <td class="class">Science</td>
+        <td class="class">Music</td>
+        <td class="class">PE</td>
+    </tr>
+
+    <tr>
+        <td class="day">Tuesday</td>
+        <td class="class">English</td>
+        <td class="class">Science</td>
+        <td class="class">Math</td>
+        <td class="empty"></td>
+        <td class="empty"></td>
+    </tr>
+
+    <tr>
+        <td class="day">Wednesday</td>
+        <td class="class">English</td>
+        <td class="class">Math</td>
+        <td class="class">History</td>
+        <td class="class">Scien
+
+</h3>
+</table>
+
+</table>
+
