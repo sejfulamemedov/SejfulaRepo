@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dokumenti</title>
+</head>
+<body>
+    <h1>Dobredojdovte vo Dokumenti</h1>
+    <hr>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse doloremque earum cum nemo, explicabo, excepturi iste quis incidunt doloribus quam sequi. Dolorem, deserunt. Incidunt ex consequatur sed eaque architecto, labore dignissimos, facilis, veritatis molestias dolorum corrupti vitae recusandae dolores obcaecati accusantium debitis. Harum cumque, quibusdam enim vel, voluptatem laborum repellendus numquam placeat id facilis quisquam nobis, fugit fuga inventore modi nam maiores vitae. Illo odit, amet pariatur nesciunt possimus reprehenderit ab? Quod dolores non accusamus unde optio, numquam adipisci libero, corrupti dignissimos vitae dolorem laudantium! Officiis eligendi obcaecati atque dicta fugit necessitatibus accusantium nulla. Aperiam a tempore fugiat nihil adipisci nemo sit delectus reiciendis deleniti labore voluptates voluptatem molestias error perspiciatis accusamus possimus asperiores, necessitatibus hic porro, magni voluptatum natus provident qui. Consequatur illum perspiciatis aperiam dolorum eos fuga quasi vitae nesciunt error culpa quia est ex, voluptatum dolorem nisi cum. Itaque, doloribus. Nobis assumenda deleniti iste, recusandae odio mollitia aperiam ipsam at voluptatum quidem, qui quaerat voluptates necessitatibus, totam incidunt! Dolorum veritatis debitis, maiores aperiam quas quibusdam beatae. Assumenda ut consequuntur nostrum illo, vero veniam, consectetur repellat optio expedita eum odio! Obcaecati eos ex consequuntur voluptatibus voluptate ipsam dolore veniam? Quidem beatae ratione, aspernatur obcaecati voluptas corporis nesciunt fuga? .</p>
+    <br>
+    <hr>
+    <ul>
+        <li>
+            <a href="../POCETNA FOLDER/POCETNA">Vrati se na Pocetna Strana</a>
+        </li>
+        <li>
+            <a href="../ZA POVEKE FOLDER/ZA POVEKE">Za Poveke Informacii</a>
+        </li>
+        <li>
+            <a href="../SLIKI FOLDER/SLIKI">Odi na Slikii Strana</a>
+        </li>
+        <li>
+            <a href="#top">Vrati se na vrvata na stranata</a>
+        </li>
+    </ul>
+</body>
+</html>

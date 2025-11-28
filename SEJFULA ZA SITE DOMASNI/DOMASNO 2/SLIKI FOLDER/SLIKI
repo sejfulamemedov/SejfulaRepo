@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pocetna Strana</title>
+</head>
+<body>
+    <h1>Dobredojdovte na Pocetna Strana</h1>
+    <hr>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse doloremque earum cum nemo, explicabo, excepturi iste quis incidunt doloribus quam sequi. Dolorem, deserunt. Incidunt ex consequatur sed eaque architecto, labore dignissimos, facilis, veritatis molestias dolorum corrupti vitae recusandae dolores obcaecati accusantium debitis. Harum cumque, quibusdam enim vel, voluptatem laborum repellendus numquam placeat id facilis quisquam nobis, fugit fuga inventore modi nam maiores vitae. Illo odit, amet pariatur nesciunt possimus reprehenderit ab? Quod dolores non accusamus unde optio, numquam adipisci libero, corrupti dignissimos vitae dolorem laudantium! Officiis eligendi obcaecati atque dicta fugit necessitatibus accusantium nulla. Aperiam a tempore fugiat nihil adipisci nemo sit delectus reiciendis deleniti labore voluptates voluptatem molestias error perspiciatis accusamus possimus asperiores, necessitatibus hic porro, magni voluptatum natus provident qui. Consequatur illum perspiciatis aperiam dolorum eos fuga quasi vitae nesciunt error culpa quia est ex, voluptatum dolorem nisi cum. Itaque, doloribus. Nobis assumenda deleniti iste, recusandae odio mollitia aperiam ipsam at voluptatum quidem, qui quaerat voluptates necessitatibus, totam incidunt! Dolorum veritatis debitis, maiores aperiam quas quibusdam beatae. Assumenda ut consequuntur nostrum illo, vero veniam, consectetur repellat optio expedita eum odio! Obcaecati eos ex consequuntur voluptatibus voluptate ipsam dolore veniam? Quidem beatae ratione, aspernatur obcaecati voluptas corporis nesciunt fuga? .</p>
+    <br>
+    <p>Sliki od mojot omilen film</p>
+    <a href="https://www.imdb.com/title/tt0325980/">
+    <img src="unnamed (3).jpg" alt="Prva Slika" width="300" height="400">
+    </a>
+    <br>
+    <br>
+    <a href="https://www.imdb.com/title/tt0383574/">
+    <img src="2.jpg" alt="Vtora Slika" width="300" height="400">
+    </a>
+    <br>
+    <br>
+    <a href="https://www.imdb.com/title/tt0449088/">
+    <img src="3.jpg" alt="Treta Slika" width="300" height="400">
+    </a>
+    <br>
+    <br>
+    <a href="https://www.imdb.com/title/tt1298650/">
+    <img src="4.jpg" alt="Chetvrta Slika" width="300" height="400">
+    </a>
+    <br>
+    <br>
+    <a href="https://www.imdb.com/title/tt1790809/">
+    <img src="5.jpg" alt="Peta Slika" width="300" height="400">
+    </a>
+    <hr>
+    <ul>
+     <li>
+        <a href="../DOKUMENTI FOLDER/DOKUMENTI">Dokumenti</a>
+    </li>
+    <li>
+        <a href="../POCETNA FOLDER/POCETNA">Pocetna</a>
+    </li>
+    <li>
+        <a href="../ZA POVEKE FOLDER/ZA POVEKE">Poveke za Nas</a>
+    </li>
+    <li>
+        <a href="#top">Vrati se vo Pocetok </a>
+    </li>
+    </ul>
+    <hr>
+    <br>
+</body>
+</html>
