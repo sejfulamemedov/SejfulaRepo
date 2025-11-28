@@ -20,7 +20,8 @@
             <h2>About Sejfula Training</h2>
             <p>Sejfula Training is dedicated to providing high-quality training resources and tutorials for developers of all skill levels. Our mission is to empower individuals to enhance their coding skills and achieve their career goals.</p>
         </div>
-        <button>Click Me!</button>
+        <button click="Tell" Click Me!</button>
+
         <table>
 
             <h3>

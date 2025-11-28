@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prva Domansa Zadaca</title>
+    <body>
+        <h1>Dobredojdovte na Prva Domanska Zadaca</h1>
+        <p>Ovaa e mestoto kade mozhete da ja najdete mojata prva domanska zadaca.</p>
+        <!--Na Ova liste ke imame zgnezduvanje (nested listing)-->
+        <ul>
+            <li>Domasni Zadaci:
+            <li>Domanska Zadaca 1</li>
+            <li>Domanska Zadaca 2</li>
+            <li>Domanska Zadaca 3</li>
+            <li>Domanska Zadaca 4</li>
+            <li>Domanska Zadaca 5</li>
+            <li>Domanska Zadaca 6</li>
+            </li>
+        </ul>
+
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum quibusdam ipsa earum molestias, sunt eos sit omnis necessitatibus labore maxime quidem. Nam, aspernatur dolore qui facere, voluptatum labore itaque enim omnis pariatur delectus blanditiis iste totam! Id nostrum dolores maxime assumenda, voluptas possimus laudantium iste voluptatum. Veniam vero aliquid id debitis, molestiae alias autem dolores. Tempore ea quasi architecto minima at deleniti eius tempora facilis tenetur harum eveniet excepturi recusandae corrupti soluta nobis aliquam explicabo, reprehenderit ullam ipsam ad. Natus eveniet esse rerum distinctio doloremque, beatae quod. Hic error ratione, necessitatibus ad, aliquid laborum nisi eaque vel consequuntur explicabo laudantium mollitia ut blanditiis distinctio dolores quibusdam nobis quia incidunt eius suscipit rem fugiat fuga eum. Ipsam eligendi excepturi officiis neque consequatur similique explicabo ad architecto a, assumenda iure praesentium dolor molestiae delectus totam aut obcaecati exercitationem soluta tenetur animi molestias mollitia nisi? Inventore doloribus error sed, unde id aut a quas minus perspiciatis aliquid omnis illo, deleniti labore iste voluptatum reprehenderit nam? Odit ipsam facere sapiente aliquam placeat eius est. Obcaecati perferendis odit laudantium harum alias laborum unde deleniti, nihil consequatur voluptate facilis ut doloremque incidunt fugiat? Harum similique corporis unde dolorum provident aspernatur, iusto eligendi repellendus temporibus consequatur deserunt ab fugit error nesciunt quibusdam recusandae adipisci assumenda nobis. Laboriosam libero dignissimos rerum blanditiis, deleniti necessitatibus nisi? Ipsum repellat nisi, alias, libero animi iste ipsa quaerat dicta vero a pariatur architecto quidem labore voluptates doloribus cumque. Dolores optio repellat odio odit repellendus dignissimos quos sed ab cum! Repudiandae commodi deserunt ea aliquid libero distinctio aperiam aspernatur accusamus, aut exercitationem amet error sequi ab doloremque temporibus? Voluptatibus eos, placeat dicta laboriosam, est distinctio expedita similique corrupti aspernatur, quaerat voluptatem eius facere animi officia eaque a totam sit corporis numquam deleniti! Quibusdam atque animi laudantium, quidem aperiam molestias dolorum amet ducimus laborum ullam. Quod, eius voluptatum id molestiae sint reprehenderit delectus voluptatibus repellendus dolore nostrum laudantium magni earum assumenda minima? Harum enim quae ipsa officiis id, facere natus nobis, recusandae aliquid facilis debitis quidem dolorum? Deserunt obcaecati repellendus distinctio dolor nemo nisi quidem. Sit vel illo facilis ea, iste commodi ipsa. Quos libero illum fugit. Ratione quaerat eligendi quisquam culpa possimus, eveniet dolor officia consequatur ipsum nihil facilis fuga odio dolorem porro error ab. Commodi, at incidunt debitis unde doloribus deserunt quam expedita, ab saepe consectetur accusamus totam itaque eum corrupti aut perspiciatis dolore laudantium, et libero cumque suscipit quibusdam eius veritatis. Vero ab cum nesciunt facere odio obcaecati tempora necessitatibus ad deserunt. Eum alias quae ex labore consectetur amet incidunt in. Laboriosam rerum nobis amet nesciunt nostrum accusantium, delectus necessitatibus eos incidunt dignissimos impedit sed, quis hic repellendus autem in cumque. Distinctio quisquam odit sunt. Facilis sapiente eum dolor suscipit voluptatem nihil blanditiis reiciendis id, quia officia qui consequuntur fugiat tenetur sit incidunt quibusdam deserunt modi. Eos minus dolore vel debitis placeat ad nostrum itaque repellat consectetur iure, quis obcaecati rerum eum error exercitationem! Dicta incidunt ipsam ex dolorem adipisci quae, fuga molestias provident nihil similique corrupti minima nemo alias consequatur!</p>
+        <h2>Kontakt Informacii</h2>
+        <p>Za povekje informacii, kontaktirajte me na:
+            <ul>
+                <li>Podatoci:
+                <li>Email:</li>
+                <li>Telefon:</li>
+                <li>Adresa:</li>
+                </li>
+
+            </ul>
+            <!--Ovde imam Napraveno poveke listi zasto sakav da izgleda po ubavo-->
