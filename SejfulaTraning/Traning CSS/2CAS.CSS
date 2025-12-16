@@ -1,0 +1,25 @@
+p{
+    font-family: 'Arial', sans-serif;
+    font-size: 20px;
+    color:rgb(22, 154, 210)
+}
+#Redlist{
+    font-family: 'Arial', sans-serif;
+    background-color:rgb(184, 70, 70);
+    font-size: 18px;
+    font-weight: initial;
+}
+.Paragraph1{
+    background-color: rgb(229, 32, 193);
+    font-family: 'Arial', sans-serif;
+    font-size: 12px;
+    color:rgb(34, 34, 34);
+}
+.Podparagraph{
+    font-style: italic;
+    
+    background-color: rgba(32, 193, 151, 0.1);
+    font-family: 'Arial', sans-serif;
+    font-size: 14px;
+    color:rgb(255, 255, 255);
+}

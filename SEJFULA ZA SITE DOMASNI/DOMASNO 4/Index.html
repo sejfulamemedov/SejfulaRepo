@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Dado Tea Lunch Special</title>
+</head>
+<body>
+
+<form>
+
+<fieldset>
+    <!-- Ovde stavam Fieldset za da imam nekoj border  od pocetok do krajot -->
+    <h1><b>Dado Tea Lunch Special</b></h1>
+
+    <p>
+        Monday through Friday<br>
+        11am – 3pm<br>
+        $9.95 plus tax
+    </p>
+
+    <p>Includes sandwich, snack, and drink.</p>
+    <!-- Ovde stavam Fieldset i legend zatoa sto da bide order information spoeno so borderot -->
+
+    <fieldset>
+        <legend>Order Information</legend>
+        Name:
+        <input type="text"><br><br>
+        <input type="radio" name="order"> Here
+        <input type="radio" name="order"> To Go
+    </fieldset>
+
+    <br>
+
+    <fieldset>
+        <legend>Sandwiches</legend>
+
+        <strong>Monday</strong><br>
+        <input type="radio" name="sandwich"> Tomato Mozzarella<br>
+        <input type="radio" name="sandwich"> Chicken Salad<br><br>
+
+        <strong>Tuesday</strong><br>
+        <input type="radio" name="sandwich"> Greek Salad Wrap<br>
+        <input type="radio" name="sandwich"> Tuna Wrap<br><br>
+
+        <strong>Wednesday</strong><br>
+        <input type="radio" name="sandwich"> Red Pepper Hummus<br>
+        <input type="radio" name="sandwich"> Roasted Turkey<br><br>
+
+        <strong>Thursday</strong><br>
+        <input type="radio" name="sandwich"> Carrot-Ginger Hummus Wrap<br>
+        <input type="radio" name="sandwich"> Egg Salad<br><br>
+
+        <strong>Friday</strong><br>
+        <input type="radio" name="sandwich"> Dado Wrap<br>
+        <input type="radio" name="sandwich"> Tuna Salad<br><br>
+
+        <input type="checkbox"> Gluten Free Bread (75¢ extra)
+    </fieldset>
+
+    <br>
+
+    <fieldset>
+        <legend>Snack</legend>
+        <input type="radio" name="snack"> Apple<br>
+        <input type="radio" name="snack"> Banana<br>
+        <input type="radio" name="snack"> Potato Chips
+    </fieldset>
+
+    <br>
+    <!-- Ovde pravam opciji za selekcija na pijaloci-->
+
+    <fieldset>
+        <legend>Drink</legend>
+        Drinks:
+        <select>
+            <option>Hot Black Tea - Keemun</option>
+            <option>Iced Black Tea</option>
+            <option>Green Tea</option>
+            <option>Herbal Tea</option>
+        </select><br><br>
+
+        <input type="checkbox"> Large drink (75¢ extra)
+    </fieldset>
+
+    <br>
+    <input type="submit" value="Place Order">
+
+</fieldset>
+<!-- Kraj na Fieldset i posle ke zavrsuva /form  za domasnoto imam koristeno i AI alatki Copilot i ChatGPT-->
+
+</form>
+
+</body>
+</html>
